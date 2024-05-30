@@ -11,9 +11,9 @@ Hazel Mendoza | discord: sasaki1539
 
 Dwainne Dyland Zapanta | discord: dzdzdzdzdzdzdz
 
-##About the project
+## About the project
 
-Project Title: RFID-Enabled Fare Incentivization with Smart Contracts
+**Project Title:** RFID-Enabled Fare Incentivization with Smart Contracts
 
 **Overview:**
 
