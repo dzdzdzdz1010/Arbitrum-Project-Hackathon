@@ -1,6 +1,6 @@
-##Arbitrum Project Hackathon Repository
+## Arbitrum Project Hackathon Repository
 
-#Team Members:
+# Team Members:
 Mark Nicholas Cagas | discord: nicooreos.
 Mark Ilagan | discord: iidabang.
 Hazel Mendoza | discord: sasaki1539.
